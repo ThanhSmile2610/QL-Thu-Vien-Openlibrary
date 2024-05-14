@@ -1,0 +1,84 @@
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll.config
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibr.BD36000C.Up2Date
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Utils.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Drawing.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll.config
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Utils.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Drawing.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibr.BD36000C.Up2Date
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Utils.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Drawing.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll.config
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Data.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Utils.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Drawing.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibr.BD36000C.Up2Date
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb

@@ -1,0 +1,21 @@
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll.config
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll.config
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll.config
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb

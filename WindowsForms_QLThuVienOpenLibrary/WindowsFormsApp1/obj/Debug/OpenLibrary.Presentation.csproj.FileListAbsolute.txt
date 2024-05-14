@@ -1,0 +1,156 @@
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibr.65CF85EE.Up2Date
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLChuyenNghanh.resources
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.Bussiness.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.Bussiness.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.dll.config
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Lenovo\source\repos\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLNhanVien.resources
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.Bussiness.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.Bussiness.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.dll.config
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.AssemblyReference.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLNhanVien.resources
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.GenerateResource.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.CoreCompileInputs.cache
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\OpenLibr.65CF85EE.Up2Date
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\phantich_thietke\WindowsForms - QL Thư Viện Open Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLChuyenNganh.resources
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\OpenLibrary.Bussiness.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.dll
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\OpenLibrary.Bussiness.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.pdb
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\OpenLibrary.DataAccess.dll.config
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Data.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\bin\Debug\DevExpress.Office.v23.2.Core.xml
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.AssemblyReference.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLChuyenNganh.resources
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLNhanVien.resources
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.GenerateResource.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\OpenLibrary.Presentation.csproj.CoreCompileInputs.cache
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\OpenLibr.65CF85EE.Up2Date
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\phantich_thietke\WindowsForms_QLThuVienOpenLibrary\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
